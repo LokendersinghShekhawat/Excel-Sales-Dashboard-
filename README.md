@@ -1,1 +1,1 @@
-# Excel-Sales-Dashboard-
+I have designed a Sales Dashboard in Excel that provides insights into profit by payment method, revenue by product line, transactions by region, and department-wise expenses. I used charts, slicers, and trend analysis to make data-driven decisions easier.
